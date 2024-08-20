@@ -1,0 +1,6 @@
+solution
+solution.o
+__pycache__
+*.pyc
+virtual
+venv
